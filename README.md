@@ -3,7 +3,7 @@
 Group project due September 8, 2017 (Team member: Stacy Srivastava)
 
 ## About
-This is homework 2 for Ethical Considerations in Data and Analytics.
+This is step 6 of the My first repo exercise, "Create a Branch." This is homework 2 for Ethical Considerations in Data and Analytics.
 It will be a first for both Stacy and me learning GitHub.
 
 ## Team
